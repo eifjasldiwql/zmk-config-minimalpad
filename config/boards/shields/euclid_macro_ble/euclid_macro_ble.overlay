@@ -1,7 +1,7 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 #include <dt-bindings/gpio/gpio.h>
 #include <dt-bindings/led/led.h>
-#include "minimalpad-layouts.dtsi"
+#include "euclid_macro_ble-layouts.dtsi"
 
 #define NC 0xFFFFFFFF  /* Use to signal that a pin is not connected */
 
