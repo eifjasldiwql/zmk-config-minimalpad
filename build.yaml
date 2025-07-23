@@ -20,10 +20,10 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: minimalpad
+    shield: euclid_macro_ble
     snippet: nrf52840-nosd
   - board: nice_nano_v2
-    shield: minimalpad
+    shield: euclid_macro_ble
     snippet: studio-rpc-usb-uart nrf52840-nosd
     cmake-args: -DCONFIG_ZMK_STUDIO=y
     artifact-name: minimalpad_with_studio

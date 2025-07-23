@@ -1,0 +1,9 @@
+# Default configuration for euclid_macro_ble
+
+if SHIELD_EUCLID_MACRO_BLE
+
+# Name of the keyboard
+config ZMK_KEYBOARD_NAME
+    default "euclid_macro_ble"
+
+endif

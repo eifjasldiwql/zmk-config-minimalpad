@@ -1,0 +1,2 @@
+config SHIELD_EUCLID_MACRO_BLE
+    def_bool $(shields_list_contains,euclid_macro_ble)
